@@ -11,6 +11,7 @@ dependencies:
   - r-tidyverse
   - r-shiny
   - r-caret
+  - r-kernlab
   - python=3.9
   - pip
   - pip:
