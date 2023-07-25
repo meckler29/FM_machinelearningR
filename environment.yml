@@ -12,7 +12,6 @@ dependencies:
   - r-shiny
   - r-caret
   - r-kernlab
-  - r-randomForest
   - python=3.9
   - pip
   - pip:
