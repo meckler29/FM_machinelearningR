@@ -10,6 +10,7 @@ dependencies:
   - r-reshape2
   - r-tidyverse
   - r-shiny
+  - r-caret
   - python=3.9
   - pip
   - pip:
